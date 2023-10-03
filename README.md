@@ -1,6 +1,6 @@
 ﻿# **Coupon-ML-Analysis**
 
-This analysis was performed to look at how various factors influence the usage of different types of coupons. 
+The "Coupon ML Analysis" was performed to look at how various factors influence the usage of different types of coupons. This was done on the CSV dataset titled "Coupons". 
 
 I started by loading and examining the dataset to understand its structure, columns, and the types of data available.
 
