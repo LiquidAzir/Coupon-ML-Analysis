@@ -43,7 +43,7 @@ Further visualizations were conducted on occupation, presence of children, and m
 **Restaurant (<$20) Coupon Conclusions:**
 
 **Age:** Younger age groups, particularly those under the age of 30, tend to accept "Restaurant(<20)" coupons at a higher rate. The acceptance rate gradually decreases with age up to 36, starts to increase up to 46 and finally drops with the group "50plus" having the lowest rate.
-**Occupation:** Occupations such as "Architecture & Engineering", "Life Physical Social Science", "COnstruction & Extraction", and "Protective Services" exhibit higher acceptance rates. Certain professions may be more likely to accept restaurant coupons due to their lifestyle or financial considerations.
+**Occupation:** Occupations such as "Architecture & Engineering", "Life Physical Social Science", "Construction & Extraction", and "Protective Services" exhibit higher acceptance rates. Certain professions may be more likely to accept restaurant coupons due to their lifestyle or financial considerations.
 **Having Children:** Those without children had a slightly higher acceptance rate.
 **Marital Status:** "Unmarried partner" individuals were the most receptive, with "Widowed" being the least.
 
